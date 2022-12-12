@@ -6,13 +6,14 @@ const Navbar = () => {
     const menu =
         <>
             <li className="btn btn-ghost text-xl"> <Link to='/'>Home</Link> </li>
-            <li className="btn btn-ghost text-xl"> <Link to='/'>Blog</Link> </li>
+            <li className="btn btn-ghost text-xl"> <Link to='/blog'>Blog</Link> </li>
+            <li className="btn btn-ghost text-xl"> <Link to='/about'>About</Link> </li>
             <li className="btn btn-ghost text-xl"><a href="https://drive.google.com/file/d/1V6IVr8TEpyQ1V1cJtNY3V6w6Bo03usKt/view?usp=share_link">Resume</a></li>
             
         </>
     return (
-        <div className="container mx-auto md:py-3">
-            <div className="navbar bg-base-100 flex justify-between">
+        <div className=" border-b" data-aos="fade-down"   >
+            <div className="navbar bg-base-100 flex justify-between container mx-auto md:py-3">
                 <div className="navbar-start ">
                     <div className="dropdown">
                         <label tabIndex={0} className="btn btn-ghost lg:hidden">

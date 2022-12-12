@@ -4,7 +4,8 @@
         "name": "Dream_Wedding",
         "picture": "https://i.ibb.co/qstwKsY/dream-Wedding.jpg",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi at suscipit numquam sed sunt aliquam veniam tempore, voluptatem voluptatibus eligendi laudantium cumque dolorem porro dignissimos quo veritatis, nulla ratione quis.",
-        "feature": ["HTML","CSS", "TAILWIND CSS","JAVASCRIPT"]    
+        "feature": ["HTML","CSS", "TAILWIND CSS","JAVASCRIPT"],
+        "live_site": "https://dream-wedding-f39ca.web.app/" 
         
     },
     {
@@ -12,7 +13,9 @@
         "name": "Online_Course",
         "picture": "https://i.ibb.co/TB0Bqyh/online-Course.jpg",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi at suscipit numquam sed sunt aliquam veniam tempore, voluptatem voluptatibus eligendi laudantium cumque dolorem porro dignissimos quo veritatis, nulla ratione quis.",
-        "feature": ["HTML","CSS", "TAILWIND CSS","JAVASCRIPT"]    
+        "feature": ["HTML","CSS", "TAILWIND CSS","JAVASCRIPT"],
+        "live_site": "https://web-online-course-3bef4.web.app/" 
+
         
     },
     {
@@ -20,7 +23,8 @@
         "name": "WebTesty",
         "picture": "https://i.ibb.co/6nzQ6WQ/webTesty.jpg",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi at suscipit numquam sed sunt aliquam veniam tempore, voluptatem voluptatibus eligendi laudantium cumque dolorem porro dignissimos quo veritatis, nulla ratione quis.",
-        "feature": ["HTML","CSS", "TAILWIND CSS","JAVASCRIPT"]    
-        
+        "feature": ["HTML","CSS", "TAILWIND CSS","JAVASCRIPT"],   
+        "live_site": "https://wonderful-cupcake-84b739.netlify.app/" 
+   
     }
 ]
